@@ -31,11 +31,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/pratham-bhatnagar/" target="blank"
+  <a href="https://www.linkedin.com/in/aadhya-mathur/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Pratham Bhatnagar"
+      alt="Aadhya Mathur"
       height="30"
       width="40"
   /></a>
