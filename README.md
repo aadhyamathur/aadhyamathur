@@ -13,7 +13,7 @@
 
 
 
-  ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadhyamathur&theme=react-dark)
+
 
 
 
