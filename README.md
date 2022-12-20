@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Aadhya Mathur
   
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Aadhya Mathur" width="30px">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Frontend+Developer;)](https://git.io/typing-svg)
 </h1>
@@ -12,13 +12,6 @@
 
 
 
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
