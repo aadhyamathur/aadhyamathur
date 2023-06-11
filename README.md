@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Frontend+Developer;)](https://git.io/typing-svg)
 </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Pratham Bhatnagar">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Aadhya Mathur">
  </p>
 
 <hr>
