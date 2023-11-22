@@ -58,13 +58,3 @@
   
 
 
-<h2 align="center">Github Statistics </h2>
-
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhyamathur&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/aadhyamathur)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aadhyamathur&theme=midnight-purple&hide_border=true)](https://github.com/aadhyamathur)
-|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadhyamathur&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/aadhyamathur)|
-</p>
-<h1 >Visits: </h1> 
-
-![Visitor Count](https://profile-counter.glitch.me/aadhyamathur/count.svg)
